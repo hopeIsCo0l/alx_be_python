@@ -1,5 +1,3 @@
-# weather_advice.py
-
 def main():
     # Prompt the user for the current weather condition
     weather = input("What's the weather like today? (sunny/rainy/cold): ").lower().strip()
@@ -12,7 +10,7 @@ def main():
     elif weather == "cold":
         print("Make sure to wear a warm coat and a scarf.")
     else:
-    #     print("Sorry, I don't have recommendations for this weather.")
+        # Handle unexpected input
         print("Sorry, I don't have recommendations for this weather.")
 
 if __name__ == "__main__":
