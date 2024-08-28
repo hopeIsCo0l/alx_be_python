@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# weather_advice.py
-
-=======
->>>>>>> 2c4802b (Add pattern_drawing.py script)
 def main():
     # Prompt the user for the current weather condition
     weather = input("What's the weather like today? (sunny/rainy/cold): ").lower().strip()
