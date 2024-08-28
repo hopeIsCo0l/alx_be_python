@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # pattern_drawing.py
 
 # Prompt the user for the size of the pattern
+=======
+>>>>>>> refs/remotes/origin/main
 size = int(input("Enter the size of the pattern: "))
 
 # Initialize the row counter
@@ -15,4 +18,7 @@ while row < size:
     print()
     # Increment the row counter
     row += 1
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main

@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # multiplication_table.py
 
 # Prompt the user for a number
+=======
+
+>>>>>>> refs/remotes/origin/main
 number = int(input("Enter a number to see its multiplication table: "))
 
 # Generate and print the multiplication table using a for loop
